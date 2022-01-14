@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ManduTheCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManduTheCat)
-<script src="https://gist.github.com/ManduTheCat/44888b7804dbe1720c4406b0a1b58ab3.js"></script>
