@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ManduTheCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManduTheCat)](https://github.com/ManduTheCat/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaduTheCat" />
+</a>
