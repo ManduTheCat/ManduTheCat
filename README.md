@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaduTheCat" />
+<a href="https://github-readme-stats.vercel.app/api?username=MaduTheCat">
 </a>
