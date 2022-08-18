@@ -1,16 +1,12 @@
-<div align=center>
 
-  <div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ManduTheCat&fontSize=90)
 
-  ![ManduTheCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManduTheCat)
 
-  </div>
-  <div>
+
+  ![ManduTheCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManduTheCat)[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krocd)](https://solved.ac/krocd)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krocd)](https://solved.ac/krocd)
-  
-  </div>
-</div>
+
+
 <hr>
 <div align=center>
 
