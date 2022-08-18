@@ -1,13 +1,20 @@
 <div align=center>
 
-![ManduTheCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManduTheCat)
+  <div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krocd)](https://solved.ac/krocd)
+  ![ManduTheCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManduTheCat)
+
+  </div>
+  <div>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krocd)](https://solved.ac/krocd)
+  
+  </div>
 </div>
 <hr>
 <div align=center>
-</div>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManduTheCat&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -34,3 +41,4 @@
 ---
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+</div>
